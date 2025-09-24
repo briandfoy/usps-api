@@ -48,7 +48,7 @@ sub init {
 
 This source is in Github:
 
-	http://github.com/briandfoy/
+	http://github.com/briandfoy/usps-api
 
 =head1 AUTHOR
 
