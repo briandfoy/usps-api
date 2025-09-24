@@ -43,6 +43,16 @@ sub init {
 
 =head1 SEE ALSO
 
+=over 4
+
+=item * L<https://developers.usps.com/getting-started|Getting Started>
+
+=item * L<https://developers.usps.com/apis|API Catalog>
+
+=item * L<https://github.com/USPS|USPS GitHub account>
+
+=back
+
 
 =head1 SOURCE AVAILABILITY
 
