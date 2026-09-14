@@ -3,7 +3,7 @@
 \.?appveyor\.yml
 \.releaserc
 \.lwpcookies
-CPAN-.*
+USPS-.*
 TODO
 \.tmproj
 profile
