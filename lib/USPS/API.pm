@@ -45,11 +45,13 @@ sub init {
 
 =over 4
 
-=item * L<https://developers.usps.com/getting-started|Getting Started>
+=item * L<Getting Started|https://developers.usps.com/getting-started>
 
-=item * L<https://developers.usps.com/apis|API Catalog>
+=item * L<API Catalog|https://developers.usps.com/apis>
 
-=item * L<https://github.com/USPS|USPS GitHub account>
+=item * L<USPS GitHub account|https://github.com/USPS>
+
+=item * L<API examples|https://github.com/USPS/api-examples>
 
 =back
 
@@ -66,7 +68,7 @@ brian d foy, C<< <briandfoy@pobox.com> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2025, brian d foy, All Rights Reserved.
+Copyright © 2025-2026, brian d foy, All Rights Reserved.
 
 You may redistribute this under the terms of the Artistic License 2.0.
 
