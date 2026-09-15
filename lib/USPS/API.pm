@@ -18,6 +18,8 @@ USPS::API - The United States Postal Service APIs
 
 =head1 DESCRIPTION
 
+This module doesn't do anything yet.
+
 =over 4
 
 =item new
